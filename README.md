@@ -1,4 +1,4 @@
-# ![](/klvn.gif) Kelvin Shadewing
+# ![](https://raw.githubusercontent.com/KelvinShadewing/KelvinShadewing/master/klvn.gif) Kelvin Shadewing
 
 Rew! I'm Kelvin, a shadewing who makes pixel art and programs games, mainly using C++ and Squirrel, though I have some knowledge of C#, Java, JavaScript, and Game Maker.
 
