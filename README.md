@@ -1,10 +1,19 @@
-# ![](https://raw.githubusercontent.com/KelvinShadewing/KelvinShadewing/master/klvn.gif) Kelvin Shadewing
+# ![](klvn.gif) Kelvin Shadewing
 
 Rew! I'm Kelvin, a shadewing who makes pixel art and programs games, mainly using C++ and Squirrel, though I have some knowledge of C#, Java, JavaScript, and Game Maker.
 
-I'm currently working on [Kyrodian Legends](https://github.com/kelvinshadewing/kyrodianlegends), an open source action platform game featuring much of my own graphics, as well as a variety of creative commons assets that have been modified to fit into the style of the game.
+My main projects include:
 
-KL is being written in my custom SDL-based game engine, [Brux](https://github.com/kelvinshadewing/brux-gdk), an engine designed to write games in the [Squirrel scripting language](https://squirrel-lang.org). So basically, I'm writing a game about a squirrel in Squirrel! Brux continues its rodent theme by using [Chipmunk](https://chipmunk-physics.net/) as a built-in advanced physics engine.
+[![Brux GDK Logo](brux-logo.png)](https://codeberg.org/KelvinShadewing/brux-gdk)
+Brux is a FOSS game engine made in SDL that uses Squirrel for scripting. It aim's to be as cross-platform as possible.
+
+[![SuperTux Advance Logo](sta-logo.png)](https://codeberg.org/KelvinShadewing/supertux-advance)
+A simple platformer I started to build my game design and development skills with. It's gone on longer than planned because some people actually like it, so I'm still building it.
+
+[![Kyrodian Legends Logo](kl-logo.png)](https://codeberg.org/KelvinShadewing/kyrodian-legends)
+My dream game. Currently this repo is mostly worldbuilding and lore as I'm still using STA to nail down a good platformer system and using what I learn there before I implement this.
+
+----
 
 If you'd like to collaborate with me on any of this, I'd like help with testing and porting Brux onto other platforms. The embedded functions are being written to match Game Maker's closely, so anyone coming from GM will be able to easily learn it.
 
