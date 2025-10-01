@@ -5,12 +5,19 @@ Rew! I'm Kelvin, a shadewing who makes pixel art and programs games, mainly usin
 My main projects include:
 
 [![Brux GDK Logo](brux-logo.png)](https://codeberg.org/KelvinShadewing/brux-gdk)
+
 Brux is a FOSS game engine made in SDL that uses Squirrel for scripting. It aim's to be as cross-platform as possible.
 
+----
+
 [![SuperTux Advance Logo](sta-logo.png)](https://codeberg.org/KelvinShadewing/supertux-advance)
+
 A simple platformer I started to build my game design and development skills with. It's gone on longer than planned because some people actually like it, so I'm still building it.
 
+----
+
 [![Kyrodian Legends Logo](kl-logo.png)](https://codeberg.org/KelvinShadewing/kyrodian-legends)
+
 My dream game. Currently this repo is mostly worldbuilding and lore as I'm still using STA to nail down a good platformer system and using what I learn there before I implement this.
 
 ----
